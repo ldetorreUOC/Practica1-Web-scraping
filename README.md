@@ -16,4 +16,6 @@ La actividad ha sido realizada de manera individual por Lucas de Torre Barrio.
 ### Memoria
   Se encuentra en web_sraping.pdf
 ### Dataset
-  Se encuentra en best_films.csv y ha sido subido a Zenodo. El **DOI** es: **10.5281/zenodo.6429855**
+  Se encuentra en best_films.csv y ha sido subido a Zenodo. El **DOI** es: **10.5281/zenodo.6429855**  
+### Vídeo
+  Se encuentra en presentación_web_scraping.mp4
