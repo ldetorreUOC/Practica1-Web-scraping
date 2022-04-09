@@ -7,7 +7,7 @@ Se han aplicado técnicas de web scraping mediante el lenguaje de programación 
 
 ## Miembros del equipo
 
-La actividad ha sido realizada de manera individual por Teguayco Gutiérrez González.
+La actividad ha sido realizada de manera individual por Lucas de Torre Barrio.
 
 ## Documentos
 
